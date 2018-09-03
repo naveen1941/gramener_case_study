@@ -7,3 +7,6 @@ If the applicant is likely to repay the loan, then not approving the loan result
 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 So the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+
+How to run?
+https://github.com/naveen1941/uber-supply-demand
